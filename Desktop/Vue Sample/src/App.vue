@@ -5,7 +5,10 @@
     <!-- <QuoteFetcher/> -->
      <!-- <acoordion/> -->
       <!-- <FilterJobs/> -->
-       <ComputedSample/>
+       <!-- <ComputedSample/> -->
+        <AnimationBasic/>
+        <GroupAnimate/>
+      
   </div>
 </template>
 
@@ -16,6 +19,8 @@ import ToggleSwitch from './components/ToggleSwitch.vue';
 import acoordion from './components/acoordion.vue';
 import FilterJobs from './components/FilterJobs.vue';
 import ComputedSample from './components/ComputedSample.vue';
+import AnimationBasic from './components/animationBasic.vue';
+import GroupAnimate from './components/GroupAnimate.vue';
 
 
 
